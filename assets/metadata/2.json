@@ -1,0 +1,19 @@
+{
+    "name": "#2",
+    "description": "POC for Fantera",
+    "image": "ipfs://QmfETyNLnJ7f6ZfPgMfcxXzagHZavfvgsFLHze5rg7Emm6",
+    "attributes": [
+        {
+            "trait_type": "BACKGROUND",
+            "value": "BLACK"
+        },
+        {
+            "trait_type": "MOOD",
+            "value": "SAD"
+        }, 
+        {
+            "trait_type": "COOLNESS",
+            "value": "5"
+        }
+    ]
+}
